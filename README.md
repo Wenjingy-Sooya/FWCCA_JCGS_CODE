@@ -27,7 +27,7 @@ the corresponding analyses.
 ## 1. Repository Structure
 
 The top-level directory is organized as follows:
-
+```text
 FWCCA_JCGS_CODE/
 │
 ├── fMRISimulation/
@@ -61,6 +61,7 @@ FWCCA_JCGS_CODE/
 ├── Atlas_FunctionMap_Multilabel.xlsx
 │
 └── README.md
+```
 
 
 The three main analysis directories are organized as independent
